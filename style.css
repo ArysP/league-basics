@@ -1,0 +1,9 @@
+#backgroundImage:before {
+   content: "";
+   position: absolute;
+   background-image: url(img/rift.png);
+    background-size: 100%;
+    opacity: 0.3;
+    height:100%;
+    width:100%;
+ }
